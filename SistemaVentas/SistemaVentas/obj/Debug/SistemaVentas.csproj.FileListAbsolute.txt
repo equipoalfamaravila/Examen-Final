@@ -1,0 +1,10 @@
+D:\Examen Final\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\Examen Final\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\Examen Final\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\Examen Final\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
